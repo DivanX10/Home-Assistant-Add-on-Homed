@@ -22,7 +22,7 @@ https://github.com/DivanX10/Home-Assistant-Add-on-Homed
 ```
 
 ![image](https://github.com/DivanX10/Home-Assistant-Add-on-Homed/assets/64090632/661d80c5-194d-4e28-a2a0-32e4384eb0b4)
-![image](https://github.com/DivanX10/Home-Assistant-Add-on-Homed/assets/64090632/20a74bd4-d760-4ee8-b510-3530d88d43f5)
+<img src="https://github.com/DivanX10/Home-Assistant-Add-on-Homed/assets/64090632/20a74bd4-d760-4ee8-b510-3530d88d43f5" width=50%>
 
 ### Описание
 Идея HOMEd ZigBee это попытка создать простую и понятную альтернативу популярному Z2M. По своей сути приложение является мостом между ZigBee сетью и MQTT-брокером.
