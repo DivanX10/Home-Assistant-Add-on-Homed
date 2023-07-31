@@ -1,7 +1,7 @@
 {
   "name": "HOMEd WEB",
   "version": "1.0.5",
-  "url": "https://wiki.homed.dev/page/HOMEd",
+  "url": "https://github.com/DivanX10/Home-Assistant-Add-on-Homed",
   "slug": "homedweb",
   "description": "HOMEd WEB",
   "webui": "http://[HOST]:[PORT:8080]",
