@@ -10,7 +10,19 @@
 ### Homed состоит из двух аддонов, Homed Zigbee и Homed WEB
 
 * **Homed Zigbee** - для работы с координатором и устройствами
-* **Homed WEB** - веб интерфейс homed
+* **Homed WEB** - веб интерфейс homed (ставится по желанию)
+
+
+## Установка
+
+Перейдите во внешний интерфейс своего домашнего помощника в Настройки -> Дополнения -> Магазин -> нажимаем на 3 точки (справа наверху) и добавьте этот URL-адрес в репозиторий:
+
+```
+https://github.com/DivanX10/Home-Assistant-Add-on-Homed
+```
+
+![image](https://github.com/DivanX10/Home-Assistant-Add-on-Homed/assets/64090632/661d80c5-194d-4e28-a2a0-32e4384eb0b4)
+![image](https://github.com/DivanX10/Home-Assistant-Add-on-Homed/assets/64090632/20a74bd4-d760-4ee8-b510-3530d88d43f5)
 
 ### Описание
 Идея HOMEd ZigBee это попытка создать простую и понятную альтернативу популярному Z2M. По своей сути приложение является мостом между ZigBee сетью и MQTT-брокером.
