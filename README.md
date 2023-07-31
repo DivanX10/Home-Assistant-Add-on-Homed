@@ -4,22 +4,13 @@
 
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 
-![image](https://github.com/DivanX10/Home-Assistant-Add-on-Homed/assets/64090632/bb259858-aa2e-4b79-a819-c50f830c1eea)
 
-Homed состоит из двух аддонов, Homed Zigbee и Homed WEB
+<img src="https://github.com/DivanX10/Home-Assistant-Add-on-Homed/assets/64090632/bb259858-aa2e-4b79-a819-c50f830c1eea" width=10%>
+
+### Homed состоит из двух аддонов, Homed Zigbee и Homed WEB
 
 * **Homed Zigbee** - для работы с координатором и устройствами
 * **Homed WEB** - веб интерфейс homed
-
-
-
-* [About HOMEd](https://wiki.homed.dev/page/ZigBee)
-* [HOMEd Wiki](https://wiki.homed.dev/page/HOMEd)
-* [HOMEd ZigBee](https://github.com/u236/homed-service-zigbee)
-* [HOMEd Web](https://github.com/u236/homed-service-web/tree/master)
-* [HOMEd ZigBee: Конфигурация](https://wiki.homed.dev/page/ZigBee/Configuration)
-* [HOMEd WEB: Конфигурация](https://github.com/u236/homed-service-web/blob/master/deploy/data/etc/homed/homed-web.conf)
-* [HOMEd docker](https://wiki.homed.dev/page/ZigBee/Installation/Docker)
 
 ### Описание
 Идея HOMEd ZigBee это попытка создать простую и понятную альтернативу популярному Z2M. По своей сути приложение является мостом между ZigBee сетью и MQTT-брокером.
@@ -51,6 +42,16 @@ HOMEd ZigBee поддерживает координаторы трех типо
 
 ### Интеграция
 Начиная с версии 3.0.46 HOMEd ZigBee поддерживает функцию Home Assistant MQTT Discovery. Это значит, что при добавлении устройств в сеть они будут автоматически "проброшены" в Home Assistant, если соответствующий параметр включен в конфигурации.
+
+### Документация
+
+* [About HOMEd](https://wiki.homed.dev/page/ZigBee)
+* [HOMEd Wiki](https://wiki.homed.dev/page/HOMEd)
+* [HOMEd ZigBee](https://github.com/u236/homed-service-zigbee)
+* [HOMEd Web](https://github.com/u236/homed-service-web/tree/master)
+* [HOMEd ZigBee: Конфигурация](https://wiki.homed.dev/page/ZigBee/Configuration)
+* [HOMEd WEB: Конфигурация](https://github.com/u236/homed-service-web/blob/master/deploy/data/etc/homed/homed-web.conf)
+* [HOMEd docker](https://wiki.homed.dev/page/ZigBee/Installation/Docker)
 
 
 
