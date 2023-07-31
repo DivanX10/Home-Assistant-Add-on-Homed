@@ -59,11 +59,15 @@ HOMEd ZigBee поддерживает координаторы трех типо
 
 * [About HOMEd](https://wiki.homed.dev/page/ZigBee)
 * [HOMEd Wiki](https://wiki.homed.dev/page/HOMEd)
+* [HOMEd Поддерживаемые устройства](https://wiki.homed.dev/page/ZigBee/Devices)
 * [HOMEd ZigBee](https://github.com/u236/homed-service-zigbee)
 * [HOMEd Web](https://github.com/u236/homed-service-web/tree/master)
 * [HOMEd ZigBee: Конфигурация](https://wiki.homed.dev/page/ZigBee/Configuration)
 * [HOMEd WEB: Конфигурация](https://github.com/u236/homed-service-web/blob/master/deploy/data/etc/homed/homed-web.conf)
 * [HOMEd docker](https://wiki.homed.dev/page/ZigBee/Installation/Docker)
+
+
+  
 
 
 
