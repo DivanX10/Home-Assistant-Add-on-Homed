@@ -1,0 +1,17 @@
+{
+  "name": "HOMEd Zigbee",
+  "version": "3.4.4",
+  "url": "https://wiki.homed.dev/page/HOMEd",
+  "slug": "homedzigbee",
+  "description": "HOMEd Zigbee",
+  "arch": ["amd64"],
+  "startup": "application",
+  "boot": "auto",
+  "map": ["config:rw"],
+  "options": {
+    "config_zigbee": "/config/homed"
+  },
+  "schema": {
+    "config_zigbee": "str?"
+  }
+}
