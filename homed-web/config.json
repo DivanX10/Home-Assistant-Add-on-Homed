@@ -1,0 +1,21 @@
+{
+  "name": "HOMEd WEB",
+  "version": "1.0.5",
+  "url": "https://wiki.homed.dev/page/HOMEd",
+  "slug": "homedweb",
+  "description": "HOMEd WEB",
+  "webui": "http://[HOST]:[PORT:8080]",
+  "arch": ["amd64"],
+  "startup": "application",
+  "boot": "auto",
+  "map": ["config:rw"],
+  "ports": {
+    "8080/tcp": 8080
+  },
+  "options": {
+    "config_web": "/config/homed"
+  },
+  "schema": {
+    "config": "str?"
+  }
+}
