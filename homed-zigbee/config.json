@@ -1,7 +1,7 @@
 {
   "name": "HOMEd Zigbee",
   "version": "3.4.4",
-  "url": "https://wiki.homed.dev/page/HOMEd",
+  "url": "https://github.com/DivanX10/Home-Assistant-Add-on-Homed",
   "slug": "homedzigbee",
   "description": "HOMEd Zigbee",
   "arch": ["amd64"],
