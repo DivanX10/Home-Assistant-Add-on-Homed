@@ -12,7 +12,8 @@
     "/dev/ezsp",
     "/dev/zigate",
     "/dev/znp",
-    "/dev/ttyUSB0"
+    "/dev/ttyUSB0",
+    "/dev/ttyAMA0"
   ],
   "options": {
     "config_zigbee": "/config/homed"
