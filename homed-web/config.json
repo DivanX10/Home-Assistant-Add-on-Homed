@@ -5,7 +5,7 @@
   "slug": "homedweb",
   "description": "HOMEd WEB",
   "webui": "http://[HOST]:[PORT:8080]",
-  "arch": ["amd64"],
+  "arch": ["amd64", "aarch64", "armv7"],
   "startup": "application",
   "boot": "auto",
   "map": ["config:rw"],
