@@ -8,6 +8,7 @@
   "startup": "application",
   "boot": "auto",
   "map": ["config:rw"],
+  "arch": ["amd64","aarch64","armv7"],
   "options": {
     "config_zigbee": "/config/homed"
   },
