@@ -16,6 +16,6 @@
     "config_web": "/config/homed"
   },
   "schema": {
-    "config": "str?"
+    "config_web": "str?"
   }
 }
