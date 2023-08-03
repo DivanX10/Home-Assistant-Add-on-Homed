@@ -8,6 +8,12 @@
   "startup": "application",
   "boot": "auto",
   "map": ["config:rw"],
+  "devices": [
+    "/dev/ezsp",
+    "/dev/zigate",
+    "/dev/znp",
+    "/dev/ttyUSB0"
+  ],
   "options": {
     "config_zigbee": "/config/homed"
   },
