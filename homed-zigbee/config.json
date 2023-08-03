@@ -1,7 +1,7 @@
 {
   "name": "HOMEd Zigbee Test",
   "version": "3.4.4",
-  "url": "https://github.com/DivanX10/Home-Assistant-Add-on-DeepStack-Edge",
+  "url": "https://github.com/DivanX10/Home-Assistant-Add-on-Homed",
   "slug": "homedzigbee",
   "description": "HOMEd Zigbee",
   "arch": ["amd64"],
