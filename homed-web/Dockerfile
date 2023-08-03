@@ -5,7 +5,7 @@ FROM docker.u236.org/homed-web
 LABEL \
   io.hass.version="VERSION" \
   io.hass.type="addon" \
-  io.hass.arch="amd64" \
+  io.hass.arch="amd64|aarch64|armv7" \
   maintainer="u236"
 
 # Установим пакеты tini, mc, nano, jq
