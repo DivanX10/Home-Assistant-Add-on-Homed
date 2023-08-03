@@ -24,7 +24,7 @@ external=/etc/homed/library
 offsets=true
 
 [zigbee]
-adapter=ezsp
+adapter=znp
 baudrate=115200
 port=/dev/ttyUSB0
 panid=0x1010
