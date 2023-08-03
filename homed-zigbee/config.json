@@ -4,11 +4,10 @@
   "url": "https://github.com/DivanX10/Home-Assistant-Add-on-Homed",
   "slug": "homedzigbee",
   "description": "HOMEd Zigbee",
-  "arch": ["amd64"],
+  "arch": ["amd64", "aarch64", "armv7"],
   "startup": "application",
   "boot": "auto",
   "map": ["config:rw"],
-  "arch": ["amd64","aarch64","armv7"],
   "options": {
     "config_zigbee": "/config/homed"
   },
