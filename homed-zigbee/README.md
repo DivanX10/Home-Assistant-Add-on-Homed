@@ -11,6 +11,9 @@
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 
+
+<img src="https://github.com/DivanX10/Home-Assistant-Add-on-Homed/assets/64090632/bb259858-aa2e-4b79-a819-c50f830c1eea" width=10%>
+
 * [About HOMEd](https://wiki.homed.dev/page/ZigBee)
 * [HOMEd Wiki](https://wiki.homed.dev/page/HOMEd)
 * [HOMEd ZigBee](https://github.com/u236/homed-service-zigbee)
